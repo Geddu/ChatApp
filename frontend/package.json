@@ -1,0 +1,59 @@
+{
+  "name": "create-react-app-with-styled-components-typescript",
+  "version": "5.0.0",
+  "private": true,
+  "dependencies": {
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/lab": "latest",
+    "@mui/material": "latest",
+    "@mui/styled-engine-sc": "latest",
+    "@reduxjs/toolkit": "^1.8.6",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/user-event": "latest",
+    "eslint": "^7.32.0",
+    "jdenticon": "^3.2.0",
+    "prettier": "^2.7.1",
+    "prettier-eslint": "^15.0.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "^8.0.4",
+    "react-scripts": "latest",
+    "socket.io-client": "^4.5.2",
+    "styled-components": "latest",
+    "typescript-eslint": "^0.0.1-alpha.0"
+  },
+  "scripts": {
+    "tsc": "./node_modules/.bin/tsc",
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/styled-components": "^5.1.26",
+    "craco-alias": "^3.0.1",
+    "react-error-overlay": "^6.0.9",
+    "typescript": "latest"
+  },
+  "overrides": {
+    "react-error-overlay": "6.0.9"
+  }
+}

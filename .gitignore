@@ -3,5 +3,4 @@ node_modules/
 .env
 .vscode/
 *.http
-frontend/
 *.override.yaml
