@@ -16,6 +16,12 @@ npm i
 npm start
 ```
 
+## About the process
+
+This task took me around 15h to complete. You can think of the 15h as a deadline, as I was pressured by time to complete this. Thus, some components and functions are far from "clean code". 
+
+How ever I decided to leave this as is. I feel it shows what I can do under pressure.
+
 ## Task
 
 The task is to create a frontend for a chat application. The following features should be found in the application:
